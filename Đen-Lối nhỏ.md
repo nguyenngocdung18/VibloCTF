@@ -3,6 +3,7 @@ Link: https://ctf.viblo.asia/puzzles/den-loi-nho-ft-phuong-anh-dao-bgvo65idf2c
 <img width="1059" height="267" alt="image" src="https://github.com/user-attachments/assets/c6e5e299-8172-46bc-8343-96947e537722" />
 
 giải nén file zip ta có 1 tấm ảnh .jpg. đơn giản dùng strings thôi
+
 <img width="308" height="109" alt="image" src="https://github.com/user-attachments/assets/6935e1d7-b2ec-420b-9707-a9e86ee428c3" />
 
 =))) hoặc mở bằng notepad
